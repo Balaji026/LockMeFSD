@@ -4,6 +4,7 @@ public class Users {
 	
 	private String username;
     private String password;
+    
 
     public Users() {}
 
@@ -28,6 +29,7 @@ public class Users {
     public void setPassword(String password) {
         this.password = password;
     }
+    
 
     @Override
     public String toString() {

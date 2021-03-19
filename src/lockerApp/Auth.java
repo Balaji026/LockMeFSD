@@ -195,6 +195,7 @@ public class Auth {
 					System.out.println("Site Name: "+lockerInput.next());
 					System.out.println("User Name: "+lockerInput.next());
 					System.out.println("User Password: "+lockerInput.next());
+					
 				}
 			}
 }
