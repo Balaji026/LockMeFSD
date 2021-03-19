@@ -6,6 +6,7 @@ public class UserCredentials {
     private String  loggedInUser;
     private String username;
     private String password;
+    
 
     public UserCredentials() {}
 

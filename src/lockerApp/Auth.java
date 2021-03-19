@@ -178,6 +178,7 @@ public class Auth {
 			
 			System.out.println("Your security is our responsiblility :)");
 			lockerOutput.close();		
+			
 		}
 		
 		//fetch credentials
