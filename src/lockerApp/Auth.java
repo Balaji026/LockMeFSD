@@ -176,6 +176,7 @@ public class Auth {
 			lockerOutput.println(userCredentials.getUsername());
 			lockerOutput.println(userCredentials.getPassword());
 			
+			
 			System.out.println("Your security is our responsiblility :)");
 			lockerOutput.close();		
 			
