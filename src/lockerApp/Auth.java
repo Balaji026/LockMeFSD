@@ -30,6 +30,7 @@ public class Auth {
 
 	}
 	public static void signInOptions() {
+		
 		System.out.println("1 . Registration ");
 		System.out.println("2 . Login ");
 		int option = inptext.nextInt();
@@ -44,6 +45,7 @@ public class Auth {
 				System.out.println("Please select 1 or 2");
 				break;
 		}
+		
 		inptext.close();
 		input.close();
 	}

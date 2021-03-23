@@ -55,6 +55,7 @@ public class UserCredentials {
                 ", loggedInUser=" + loggedInUser +
                 ", username=" + username
                 + ", password=" + password + "]";
+        
     }
 
 }
